@@ -1,0 +1,1775 @@
+[
+  {
+    "timestamp": "2026-08-21T09:15:54.614470+00:00",
+    "student": {
+      "name": "AMRUTHA J S",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "9380146603",
+      "location": "",
+      "college": "Malnad College of Engineering",
+      "branch": "Information Science",
+      "year": "2024-2028"
+    },
+    "final": {
+      "overall_score": 85,
+      "summary": "Strong foundation in web development with practical experience in multiple projects and certifications.",
+      "final_verdict": "Well-prepared for web development roles with a solid educational background and hands-on experience.",
+      "top_3_actions": [
+        "Enhance project descriptions with specific technologies used.",
+        "Include more quantifiable achievements in projects.",
+        "Add a professional summary to highlight key skills."
+      ]
+    },
+    "ats": {
+      "ats_score": 80,
+      "keyword_match": 75,
+      "format_score": 90,
+      "experience_score": 70
+    },
+    "skills": {
+      "matched_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "Web Development"
+      ],
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "Database Management"
+      ],
+      "recommended_skills": [
+        "React",
+        "Node.js",
+        "Database Management"
+      ]
+    },
+    "strengths": {
+      "strengths": [
+        "Strong academic performance",
+        "Hands-on project experience",
+        "Active participation in open-source projects"
+      ],
+      "weaknesses": [
+        "Limited experience with backend technologies",
+        "Lack of detailed project descriptions"
+      ]
+    },
+    "critic": {
+      "critical_issues": [
+        "No clear professional summary",
+        "Projects lack specific technologies and outcomes"
+      ],
+      "high_priority": [
+        "Add a professional summary",
+        "Detail project descriptions with technologies used"
+      ],
+      "quick_fixes": [
+        "Format the resume for better readability",
+        "Ensure consistent formatting across sections"
+      ]
+    },
+    "extracted": {
+      "personal_details": {
+        "name": "AMRUTHA J S",
+        "email": "hitheshnaik55@gmail.com",
+        "phone": "",
+        "location": "",
+        "college": "Malnad College of Engineering",
+        "branch": "Information Science",
+        "year": "2024-2028"
+      },
+      "education": [
+        {
+          "institution": "Malnad College of Engineering",
+          "degree": "Bachelor of Engineering",
+          "branch": "Information Science",
+          "dates": "2024-2028",
+          "cgpa": "9.4"
+        },
+        {
+          "institution": "M,D,R,S Tegur",
+          "degree": "PCMB",
+          "dates": "2022-2024",
+          "percentage": "92%"
+        },
+        {
+          "institution": "K,R,C,R,S JODIHOCHIHALLI",
+          "degree": "",
+          "dates": "2022",
+          "percentage": "96%"
+        }
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "C",
+        "Java",
+        "Bootstrap",
+        "MySQL",
+        "Git",
+        "Figma"
+      ],
+      "projects": [
+        {
+          "title": "MCP Mega Workshop",
+          "details": "Learned about LLM + function calling workflow and MCP components."
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Web Development and Frontend Development",
+          "organization": "Malnad College of Engineering",
+          "dates": "",
+          "details": ""
+        },
+        {
+          "title": "AI Tools and ChatGPT",
+          "organization": "be10x",
+          "dates": "",
+          "details": "Boosting productivity and Data Analysis Skills."
+        },
+        {
+          "title": "Full Stack Workshop",
+          "organization": "IUCEE",
+          "dates": "",
+          "details": "Gained insights on Web development, Git, and GitHub."
+        }
+      ],
+      "experience": []
+    },
+    "section_scores": {
+      "overall_score": 85,
+      "ats_score": 80,
+      "keyword_match": 75,
+      "skills_match": 85,
+      "extracted_information_score": 90,
+      "skills_analysis_score": 80,
+      "strengths_score": 75,
+      "weaknesses_score": 70,
+      "improvement_plan_score": 80,
+      "format_score": 90,
+      "experience_score": 0,
+      "education_score": 90,
+      "projects_score": 70,
+      "certifications_score": 80
+    }
+  },
+  {
+    "timestamp": "2026-08-21T09:14:55.098938+00:00",
+    "student": {
+      "name": "AMRUTHA J S",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "9380146603",
+      "location": "",
+      "college": "Malnad College of Engineering",
+      "branch": "Information Science",
+      "year": "2024-2028"
+    },
+    "final": {
+      "overall_score": 85,
+      "summary": "Strong foundation in web development with practical experience in frontend projects and relevant certifications.",
+      "final_verdict": "The resume effectively highlights technical skills and projects but could benefit from better formatting and clarity.",
+      "top_3_actions": [
+        "Improve formatting for better readability.",
+        "Add more specific details to experience section.",
+        "Include a personal statement or objective."
+      ]
+    },
+    "ats": {
+      "ats_score": 80,
+      "keyword_match": 75,
+      "format_score": 70,
+      "experience_score": 60
+    },
+    "skills": {
+      "matched_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "Web Development"
+      ],
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "Database Management"
+      ],
+      "recommended_skills": [
+        "Learn React for frontend frameworks.",
+        "Gain experience with Node.js for backend development.",
+        "Explore database management systems."
+      ]
+    },
+    "strengths": {
+      "strengths": [
+        "Strong academic performance with a 9.4 CGPA.",
+        "Active involvement in open-source projects.",
+        "Practical experience in web development."
+      ],
+      "weaknesses": [
+        "Lack of detailed work experience.",
+        "Limited exposure to backend technologies."
+      ]
+    },
+    "critic": {
+      "critical_issues": [
+        "Formatting issues make the resume hard to read.",
+        "Lack of specific details in the experience section."
+      ],
+      "high_priority": [
+        "Enhance formatting for clarity.",
+        "Include more detailed descriptions of projects and roles."
+      ],
+      "quick_fixes": [
+        "Use bullet points for better organization.",
+        "Add a personal statement at the top."
+      ]
+    },
+    "extracted": {
+      "personal_details": {
+        "name": "AMRUTHA J S",
+        "email": "hitheshnaik55@gmail.com",
+        "phone": "",
+        "location": "",
+        "college": "Malnad College of Engineering",
+        "branch": "Information Science",
+        "year": "2024-2028"
+      },
+      "education": [
+        {
+          "institution": "Malnad College of Engineering",
+          "degree": "Bachelor of Engineering",
+          "branch": "Information Science",
+          "year": "2024-2028",
+          "cgpa": "9.4"
+        },
+        {
+          "institution": "M,D,R,S Tegur",
+          "degree": "PCMB",
+          "year": "2022-2024",
+          "percentage": "92%"
+        },
+        {
+          "institution": "K,R,C,R,S JODIHOCHIHALLI",
+          "degree": "High School",
+          "year": "2022",
+          "percentage": "96%"
+        }
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "C",
+        "Java",
+        "Git",
+        "MySQL",
+        "Figma"
+      ],
+      "projects": [
+        {
+          "title": "MCP Mega Workshop",
+          "details": "Learn about LLM + function calling workflow and MCP components and workflow."
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Web Development and Frontend Development",
+          "organization": "Malnad College of Engineering",
+          "dates": "",
+          "evidence": ""
+        },
+        {
+          "title": "AI Tools and ChatGPT",
+          "organization": "be10x",
+          "dates": "",
+          "evidence": ""
+        },
+        {
+          "title": "Full Stack Workshop",
+          "organization": "IUCEE",
+          "dates": "",
+          "evidence": ""
+        }
+      ],
+      "experience": []
+    },
+    "section_scores": {
+      "overall_score": 85,
+      "ats_score": 80,
+      "keyword_match": 75,
+      "skills_match": 80,
+      "extracted_information_score": 90,
+      "skills_analysis_score": 85,
+      "strengths_score": 80,
+      "weaknesses_score": 70,
+      "improvement_plan_score": 75,
+      "format_score": 70,
+      "experience_score": 60,
+      "education_score": 90,
+      "projects_score": 80,
+      "certifications_score": 75
+    }
+  },
+  {
+    "timestamp": "2026-08-21T09:11:57.522850+00:00",
+    "student": {
+      "name": "AMRUTHA J S",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "9380146603",
+      "location": "",
+      "college": "Malnad College of Engineering",
+      "branch": "Information Science",
+      "year": "2024-2028"
+    },
+    "final": {
+      "overall_score": 85,
+      "summary": "The resume showcases a strong foundation in web development and relevant projects, with good academic performance. However, it lacks detailed work experience and specific metrics to quantify achievements.",
+      "final_verdict": "Strong candidate with potential for growth in web development roles.",
+      "top_3_actions": [
+        "Add specific metrics to quantify project impacts.",
+        "Include more detailed work experience or internships.",
+        "Enhance the layout for better readability."
+      ]
+    },
+    "ats": {
+      "ats_score": 80,
+      "keyword_match": 75,
+      "format_score": 70,
+      "experience_score": 60
+    },
+    "skills": {
+      "matched_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "Web Development"
+      ],
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "Database Management",
+        "APIs"
+      ],
+      "recommended_skills": [
+        "Learn React for frontend development.",
+        "Gain experience with Node.js for backend development.",
+        "Explore database management systems."
+      ]
+    },
+    "strengths": {
+      "strengths": [
+        "Strong academic performance (9.4 CGPA)",
+        "Active involvement in open-source projects",
+        "Good foundational knowledge in web technologies"
+      ],
+      "weaknesses": [
+        "Limited work experience",
+        "Lack of specific metrics in project descriptions"
+      ]
+    },
+    "critic": {
+      "critical_issues": [
+        "Resume lacks detailed work experience.",
+        "Projects need quantifiable outcomes."
+      ],
+      "high_priority": [
+        "Add internships or relevant work experience.",
+        "Include metrics to demonstrate project success."
+      ],
+      "quick_fixes": [
+        "Revise the format for clarity.",
+        "List projects with specific technologies used."
+      ]
+    },
+    "extracted": {
+      "personal_details": {
+        "name": "AMRUTHA J S",
+        "email": "hitheshnaik55@gmail.com",
+        "phone": "",
+        "location": "",
+        "college": "Malnad College of Engineering",
+        "branch": "Information Science",
+        "year": "2024-2028"
+      },
+      "education": [
+        {
+          "institution": "Malnad College of Engineering",
+          "degree": "Bachelor of Engineering",
+          "branch": "Information Science",
+          "dates": "2024-2028",
+          "cgpa": "9.4"
+        },
+        {
+          "institution": "M,D,R,S Tegur",
+          "degree": "PCMB",
+          "dates": "2022-2024",
+          "percentage": "92%"
+        },
+        {
+          "institution": "K,R,C,R,S JODIHOCHIHALLI",
+          "degree": "High School",
+          "dates": "2022",
+          "percentage": "96%"
+        }
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "C",
+        "Java",
+        "Bootstrap",
+        "MySQL",
+        "Git",
+        "Figma"
+      ],
+      "projects": [
+        {
+          "title": "MCP Mega Workshop",
+          "details": "Learn about LLM + function calling workflow and MCP components."
+        }
+      ],
+      "certifications": [
+        {
+          "title": "Web Development and Frontend Development",
+          "organization": "Malnad College of Engineering",
+          "dates": "",
+          "evidence": ""
+        },
+        {
+          "title": "AI Tools and ChatGPT",
+          "organization": "be10x",
+          "dates": "",
+          "evidence": ""
+        },
+        {
+          "title": "Full Stack Workshop",
+          "organization": "IUCEE",
+          "dates": "",
+          "evidence": ""
+        }
+      ],
+      "experience": []
+    },
+    "section_scores": {
+      "overall_score": 85,
+      "ats_score": 80,
+      "keyword_match": 75,
+      "skills_match": 80,
+      "extracted_information_score": 90,
+      "skills_analysis_score": 85,
+      "strengths_score": 80,
+      "weaknesses_score": 70,
+      "improvement_plan_score": 75,
+      "format_score": 70,
+      "experience_score": 60,
+      "education_score": 90,
+      "projects_score": 70,
+      "certifications_score": 80
+    }
+  },
+  {
+    "timestamp": "2026-08-21T09:09:08.349613+00:00",
+    "student": {
+      "name": "AMRUTHA J S",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "9380146603",
+      "college": "Malnad College of Engineering",
+      "branch": "Information Science",
+      "year": "2024-2028"
+    },
+    "final": {
+      "overall_score": 85,
+      "summary": "The resume showcases a strong academic background and relevant project experience in web development, with certifications that enhance the candidate's profile.",
+      "final_verdict": "Strong candidate with a solid foundation in web development and relevant certifications.",
+      "top_3_actions": [
+        "Include a phone number for better contactability.",
+        "Highlight specific technologies used in projects.",
+        "Add more details on contributions to open-source projects."
+      ]
+    },
+    "ats": {
+      "ats_score": 80,
+      "keyword_match": 75,
+      "format_score": 90,
+      "experience_score": 70
+    },
+    "skills": {
+      "matched_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "Web Development"
+      ],
+      "missing_skills": [
+        "React",
+        "Node.js",
+        "SQL"
+      ],
+      "recommended_skills": [
+        "React",
+        "Node.js",
+        "SQL"
+      ]
+    },
+    "strengths": {
+      "strengths": [
+        "Strong academic performance",
+        "Relevant project experience",
+        "Multiple certifications in web development"
+      ],
+      "weaknesses": [
+        "Limited professional experience",
+        "Lack of specific technology details in projects"
+      ]
+    },
+    "critic": {
+      "critical_issues": [
+        "No phone number provided",
+        "Vague descriptions of projects"
+      ],
+      "high_priority": [
+        "Add a phone number",
+        "Provide more details on project technologies"
+      ],
+      "quick_fixes": [
+        "Update contact information",
+        "Clarify project descriptions"
+      ]
+    },
+    "extracted": {
+      "personal_details": {
+        "name": "AMRUTHA J S",
+        "email": "hitheshnaik55@gmail.com"
+      },
+      "education": [
+        {
+          "institution": "Malnad College of Engineering",
+          "degree": "Bachelor of Engineering",
+          "field": "Information Science",
+          "duration": "2024-2028",
+          "cgpa": "9.4"
+        },
+        {
+          "institution": "M,D,R,S Tegur",
+          "degree": "PCMB",
+          "duration": "2022-2024",
+          "percentage": "92%"
+        },
+        {
+          "institution": "K,R,C,R,S JODIHOCHIHALLI",
+          "degree": "High School",
+          "duration": "2022",
+          "percentage": "96%"
+        }
+      ],
+      "skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Python",
+        "C",
+        "Java",
+        "Git",
+        "MySQL",
+        "Figma"
+      ],
+      "projects": [
+        "Portfolio websites",
+        "UI designs",
+        "Basic web applications",
+        "MCP Mega Workshop"
+      ],
+      "certifications": [
+        "Web Development and Frontend Development courses from Malnad College of Engineering",
+        "AI Tools and ChatGPT workshop from be10x",
+        "Full stack workshop from IUCEE"
+      ],
+      "experience": []
+    },
+    "section_scores": {
+      "overall_score": 85,
+      "ats_score": 80,
+      "keyword_match": 75,
+      "skills_match": 85,
+      "extracted_information_score": 90,
+      "skills_analysis_score": 80,
+      "strengths_score": 75,
+      "weaknesses_score": 70,
+      "improvement_plan_score": 80,
+      "format_score": 90,
+      "experience_score": 0,
+      "education_score": 90,
+      "projects_score": 80,
+      "certifications_score": 85
+    }
+  },
+  {
+    "timestamp": "2026-08-21T09:06:42.456234+00:00",
+    "student": {
+      "name": "AMRUTHA J S",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "9380146603",
+      "college": "Malnad College of Engineering",
+      "branch": "Information Science",
+      "year": "2024-2028"
+    },
+    "final": {
+      "overall_score": 85,
+      "summary": "Strong technical skills with relevant project experience and certifications. Good academic performance.",
+      "final_verdict": "Strong candidate with potential for growth.",
+      "top_3_actions": [
+        "Enhance project descriptions with specific technologies used.",
+        "Include more details on contributions to open-source projects.",
+        "Highlight leadership or teamwork experiences in projects."
+      ]
+    },
+    "ats": {
+      "ats_score": 80,
+      "keyword_match": 75,
+      "format_score": 90,
+      "experience_score": 70
+    },
+    "skills": {
+      "skills_match": 85
+    },
+    "strengths": [
+      "Strong academic performance",
+      "Diverse technical skills",
+      "Active involvement in projects"
+    ],
+    "critic": [
+      "Lacks detailed descriptions of open-source contributions.",
+      "Could improve on showcasing teamwork or leadership roles.",
+      "More specific examples of problem-solving in projects needed."
+    ],
+    "extracted": {
+      "education": 90,
+      "projects": 80,
+      "certifications": 75,
+      "experience": 70,
+      "skills_analysis": 85,
+      "strengths": 80,
+      "weaknesses": 60,
+      "improvement_plan": 70
+    },
+    "section_scores": {
+      "overall_score": 85,
+      "ats_score": 80,
+      "keyword_match": 75,
+      "skills_match": 85,
+      "extracted_information_score": 80,
+      "skills_analysis_score": 85,
+      "strengths_score": 80,
+      "weaknesses_score": 60,
+      "improvement_plan_score": 70,
+      "format_score": 90,
+      "experience_score": 70,
+      "education_score": 90,
+      "projects_score": 80,
+      "certifications_score": 75
+    }
+  },
+  {
+    "timestamp": "2026-08-21T09:03:49.368820+00:00",
+    "student": {
+      "name": "AMRUTHA J S",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "2024-2028",
+      "college": "Malnad College of Engineering",
+      "branch": "Information Science",
+      "year": "2024-2028"
+    },
+    "final": {
+      "overall_score": 85,
+      "summary": "Strong technical foundation with significant contributions to open-source projects and relevant coursework.",
+      "final_verdict": "Well-rounded candidate with practical experience and solid academic performance.",
+      "top_3_actions": [
+        "Enhance project descriptions with specific technologies used.",
+        "Include more details on contributions to open-source projects.",
+        "Highlight leadership roles or teamwork experiences."
+      ]
+    },
+    "ats": {
+      "ats_score": 80,
+      "keyword_match": 75,
+      "format_score": 85,
+      "experience_score": 70
+    },
+    "skills": {
+      "skills_match": 90
+    },
+    "strengths": [
+      "Strong academic performance",
+      "Extensive open-source contributions",
+      "Diverse technical skills"
+    ],
+    "critic": [
+      "Lacks detailed descriptions of projects",
+      "No clear leadership or teamwork examples",
+      "Limited information on internships or work experience"
+    ],
+    "extracted": {
+      "education": [
+        "Bachelor of Engineering, Information Science – 9.4 CGPA, Malnad College of Engineering (2024-2028)",
+        "PCMB - 92%, M,D,R,S Tegur (2022-2024)",
+        "96%, K,R,C,R,S JODIHOCHIHALLI (2022)"
+      ],
+      "projects": [
+        "MCP Mega Workshop",
+        "Portfolio websites",
+        "UI designs",
+        "Basic web applications"
+      ],
+      "certifications": [
+        "Web Development and Frontend Development courses from Malnad College of Engineering",
+        "AI tools and ChatGPT workshop from be10x",
+        "Full stack workshop from IUCEE"
+      ],
+      "experience": [
+        "Contributions to 30+ open-source projects",
+        "Developed multiple frontend projects"
+      ],
+      "skills_analysis": [
+        "Proficient in HTML, CSS, JavaScript",
+        "Basic knowledge of Git",
+        "Familiar with MySQL and Figma"
+      ],
+      "strengths": [
+        "Strong foundation in web development",
+        "Ability to build responsive interfaces",
+        "Experience in modern UI design"
+      ],
+      "weaknesses": [
+        "Limited professional experience",
+        "No internships listed",
+        "Lacks leadership roles"
+      ],
+      "improvement_plan": [
+        "Gain internship experience",
+        "Participate in team projects",
+        "Expand technical skills in backend development"
+      ]
+    },
+    "section_scores": {
+      "overall_score": 85,
+      "ats_score": 80,
+      "keyword_match": 75,
+      "skills_match": 90,
+      "extracted_information_score": 85,
+      "skills_analysis_score": 80,
+      "strengths_score": 85,
+      "weaknesses_score": 60,
+      "improvement_plan_score": 70,
+      "format_score": 85,
+      "experience_score": 70,
+      "education_score": 90,
+      "projects_score": 75,
+      "certifications_score": 80
+    }
+  },
+  {
+    "timestamp": "2026-08-21T09:00:31.588112+00:00",
+    "student": {
+      "name": "AMRUTHA J S",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "2024-2028",
+      "college": "Malnad College of Engineering",
+      "branch": "Information Science",
+      "year": "2024-2028"
+    },
+    "final": {
+      "overall_score": 85,
+      "summary": "Strong technical skills with significant contributions to open-source projects. Solid educational background and relevant certifications.",
+      "final_verdict": "Strong candidate with good potential.",
+      "top_3_actions": [
+        "Enhance project descriptions with specific technologies used.",
+        "Include more details on professional experience.",
+        "Highlight leadership roles in projects or workshops."
+      ]
+    },
+    "ats": {
+      "ats_score": 80,
+      "keyword_match": 75,
+      "format_score": 85,
+      "experience_score": 70
+    },
+    "skills": {
+      "skills_match": 90
+    },
+    "strengths": [
+      "Strong academic performance",
+      "Extensive open-source contributions",
+      "Diverse technical skill set"
+    ],
+    "critic": [
+      "Lacks detailed professional experience",
+      "Could improve project descriptions",
+      "Needs clearer formatting for certifications"
+    ],
+    "extracted": {
+      "education": 90,
+      "projects": 80,
+      "certifications": 70,
+      "experience": 60,
+      "skills_analysis": 85,
+      "strengths": 90,
+      "weaknesses": 70,
+      "improvement_plan": 75
+    },
+    "section_scores": {
+      "overall_score": 85,
+      "ats_score": 80,
+      "keyword_match": 75,
+      "skills_match": 90,
+      "extracted_information_score": 80,
+      "skills_analysis_score": 85,
+      "strengths_score": 90,
+      "weaknesses_score": 70,
+      "improvement_plan_score": 75,
+      "format_score": 85,
+      "experience_score": 60,
+      "education_score": 90,
+      "projects_score": 80,
+      "certifications_score": 70
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:56:40.700158+00:00",
+    "student": {
+      "name": "AMRUTHA J S",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "2024-2028",
+      "college": "Malnad College of Engineering",
+      "branch": "Information Science",
+      "year": "2024-2028"
+    },
+    "final": {
+      "overall_score": 85,
+      "summary": "Strong technical foundation with practical experience in web development and open-source contributions. Good academic performance and relevant certifications.",
+      "final_verdict": "Strong candidate with relevant skills and experience.",
+      "top_3_actions": [
+        "Enhance GitHub portfolio with more projects.",
+        "Gain more experience in backend technologies.",
+        "Participate in hackathons to improve problem-solving skills."
+      ]
+    },
+    "ats": {
+      "ats_score": 80,
+      "keyword_match": 75,
+      "format_score": 85,
+      "experience_score": 80
+    },
+    "skills": {
+      "skills_match": 90
+    },
+    "strengths": [
+      "Strong academic performance",
+      "Extensive open-source contributions",
+      "Proficient in web development technologies"
+    ],
+    "critic": [
+      "Lacks detailed descriptions of projects",
+      "Could include more specific achievements",
+      "Needs to highlight teamwork and collaboration experiences"
+    ],
+    "extracted": [
+      "Bachelor of Engineering in Information Science",
+      "9.4 CGPA",
+      "Experience in web development",
+      "Completed relevant courses and workshops"
+    ],
+    "section_scores": {
+      "overall_score": 85,
+      "ats_score": 80,
+      "keyword_match": 75,
+      "skills_match": 90,
+      "extracted_information_score": 80,
+      "skills_analysis_score": 85,
+      "strengths_score": 90,
+      "weaknesses_score": 60,
+      "improvement_plan_score": 70,
+      "format_score": 85,
+      "experience_score": 80
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:56:27.394041+00:00",
+    "student": {
+      "name": "AMRUTHA J S",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "2024-2028",
+      "college": "Malnad College of Engineering",
+      "branch": "Information Science",
+      "year": "2024-2028"
+    },
+    "final": {
+      "overall_score": 85,
+      "summary": "The resume showcases a strong foundation in web development and relevant technical skills, along with practical experience through projects and certifications.",
+      "final_verdict": "Strong candidate with relevant skills and experience.",
+      "top_3_actions": [
+        "Enhance project descriptions with specific technologies used.",
+        "Include more quantitative achievements in projects.",
+        "Add a section for relevant coursework or academic projects."
+      ]
+    },
+    "ats": {
+      "ats_score": 80,
+      "keyword_match": 75,
+      "format_score": 85,
+      "experience_score": 70
+    },
+    "skills": {
+      "skills_match": 90
+    },
+    "strengths": [
+      "Strong foundation in web development technologies.",
+      "Active participation in open-source projects.",
+      "Good academic performance."
+    ],
+    "critic": [
+      "Lacks specific metrics in project descriptions.",
+      "Could benefit from a more structured format.",
+      "Limited information on soft skills and teamwork."
+    ],
+    "extracted": [
+      "Bachelor of Engineering in Information Science.",
+      "9.4 CGPA.",
+      "Experience in web development and Git.",
+      "Multiple projects showcased on GitHub."
+    ],
+    "section_scores": {
+      "overall_score": 85,
+      "ats_score": 80,
+      "keyword_match": 75,
+      "skills_match": 90,
+      "extracted_information_score": 80,
+      "skills_analysis_score": 85,
+      "strengths_score": 90,
+      "weaknesses_score": 60,
+      "improvement_plan_score": 70,
+      "format_score": 85,
+      "experience_score": 70
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:51:35.895379+00:00",
+    "student": {
+      "name": "AMRUTHA J S",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "2024-2028",
+      "college": "Malnad College of Engineering",
+      "branch": "Information Science",
+      "year": "2024-2028"
+    },
+    "final": {
+      "overall_score": 75,
+      "summary": "The candidate has a solid foundation in web development and relevant technical skills. However, there is a need for more specific experience related to the job description.",
+      "final_verdict": "Qualified with room for improvement",
+      "top_3_actions": [
+        "Gain more practical experience in backend development.",
+        "Enhance knowledge of specific technologies mentioned in the job description.",
+        "Participate in more collaborative projects to demonstrate teamwork skills."
+      ]
+    },
+    "ats": {
+      "ats_score": 70,
+      "keyword_match": 60,
+      "format_score": 80,
+      "experience_score": 70
+    },
+    "skills": {
+      "skills_match": 65
+    },
+    "strengths": [
+      "Strong foundation in web development",
+      "Experience with multiple programming languages",
+      "Active participation in open-source projects"
+    ],
+    "critic": [
+      "Lacks specific experience related to backend technologies mentioned in the job description.",
+      "Could improve on showcasing teamwork and collaboration in projects.",
+      "Needs to align skills more closely with job requirements."
+    ],
+    "extracted": {
+      "education": [
+        "Bachelor of Engineering, Information Science - 9.4 CGPA"
+      ],
+      "certifications": [
+        "Web Development and Frontend Development courses",
+        "AI tools and ChatGPT workshop",
+        "Full stack workshop"
+      ],
+      "projects": [
+        "Multiple frontend projects including portfolio websites",
+        "MCP Mega Workshop"
+      ],
+      "languages": [
+        "English (Professional)",
+        "Kannada (Native)",
+        "Hindi (Limited)"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:47:33.799009+00:00",
+    "student": {
+      "name": "AMRUTHA J S",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "2024-2028",
+      "college": "Malnad College of Engineering",
+      "branch": "Information Science",
+      "year": "2024-2028"
+    },
+    "final": {
+      "overall_score": 75,
+      "summary": "The candidate has a strong foundation in web development and relevant technical skills. However, there is a lack of specific experience or projects directly related to the job description.",
+      "final_verdict": "Qualified but needs more relevant experience.",
+      "top_3_actions": [
+        "Gain more hands-on experience in projects directly related to the job description.",
+        "Highlight specific achievements or metrics from projects.",
+        "Tailor the resume to emphasize skills that match the job description more closely."
+      ]
+    },
+    "ats": {
+      "score": 70,
+      "keywords_matched": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "Web Development"
+      ],
+      "keywords_missing": [
+        "specific frameworks or libraries mentioned in the job description",
+        "team collaboration experience",
+        "project management skills"
+      ]
+    },
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C",
+      "Java",
+      "Git",
+      "MySQL",
+      "Figma"
+    ],
+    "strengths": [
+      "Strong foundation in web development",
+      "Experience with open-source projects",
+      "Good academic performance"
+    ],
+    "critic": [
+      "Lacks specific project examples related to job description",
+      "Could improve on showcasing teamwork or collaboration",
+      "Needs to provide more context on contributions to open-source projects"
+    ],
+    "extracted": {
+      "education": "Bachelor of Engineering, Information Science – 9.4 CGPA",
+      "certifications": [
+        "Web Development and Frontend Development",
+        "AI tools and ChatGPT",
+        "Full stack workshop"
+      ],
+      "projects": [
+        "Portfolio websites",
+        "UI designs",
+        "MCP Mega Workshop"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:45:04.687262+00:00",
+    "student": {
+      "name": "AMRUTHA J S",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "2024-2028",
+      "college": "Malnad College of Engineering",
+      "branch": "Information Science",
+      "year": "2024-2028"
+    },
+    "final": {
+      "overall_score": 75,
+      "summary": "The candidate has a solid foundation in web development and relevant technical skills, but lacks specific experience related to the job description.",
+      "final_verdict": "Potentially suitable with further experience.",
+      "top_3_actions": [
+        "Gain more practical experience in full-stack development.",
+        "Enhance knowledge of backend technologies.",
+        "Participate in more collaborative projects to demonstrate teamwork."
+      ]
+    },
+    "ats": {
+      "score": 70,
+      "keywords_matched": [
+        "web development",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "responsive design"
+      ],
+      "keywords_missing": [
+        "specific frameworks",
+        "backend technologies",
+        "team collaboration experience"
+      ]
+    },
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C",
+      "Java",
+      "Bootstrap",
+      "MySQL",
+      "Git",
+      "Figma"
+    ],
+    "strengths": [
+      "Strong foundation in web development",
+      "Experience with open-source projects",
+      "Good academic performance"
+    ],
+    "critic": [
+      "Lacks specific backend development experience",
+      "Limited exposure to collaborative projects",
+      "Needs to highlight more relevant projects"
+    ],
+    "extracted": {
+      "education": "Bachelor of Engineering, Information Science – 9.4 CGPA",
+      "certifications": [
+        "Web Development and Frontend Development courses",
+        "AI tools and ChatGPT certification",
+        "Full stack workshop certification"
+      ],
+      "projects": [
+        "MCP Mega Workshop",
+        "LinkedIn MCP server setup",
+        "Gmail MCP server setup"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:44:21.275761+00:00",
+    "student": {
+      "name": "AMRUTHA J S",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "2024-2028",
+      "college": "Malnad College of Engineering",
+      "branch": "Information Science",
+      "year": "2024-2028"
+    },
+    "final": {
+      "overall_score": 75,
+      "summary": "The candidate has a solid foundation in web development and relevant technical skills, but lacks specific experience or projects directly aligned with the job description.",
+      "final_verdict": "Potential candidate with room for improvement in aligning experience with job requirements.",
+      "top_3_actions": [
+        "Gain more practical experience in projects directly related to the job description.",
+        "Enhance knowledge of specific technologies mentioned in the job description.",
+        "Participate in internships or collaborative projects to build relevant experience."
+      ]
+    },
+    "ats": {
+      "score": 70,
+      "keywords_matched": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "Web Development"
+      ],
+      "keywords_missing": [
+        "specific frameworks or libraries mentioned in the job description",
+        "team collaboration experience",
+        "industry-related projects"
+      ]
+    },
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C",
+      "Java",
+      "Bootstrap",
+      "MySQL",
+      "Git",
+      "Figma"
+    ],
+    "strengths": [
+      "Strong foundation in web development",
+      "Experience with open-source projects",
+      "Good academic performance"
+    ],
+    "critic": "The resume lacks specific examples of projects or experiences that directly relate to the job description. More emphasis on relevant internships or practical applications of skills would strengthen the application.",
+    "extracted": {
+      "education": "Bachelor of Engineering, Information Science – 9.4 CGPA",
+      "certifications": [
+        "Web Development and Frontend Development courses",
+        "AI tools and ChatGPT workshop",
+        "Full stack workshop"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "interests": [
+        "Open-Source Software",
+        "full development stack development",
+        "chess"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:41:30.072799+00:00",
+    "student": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "college": "",
+      "branch": "",
+      "year": ""
+    },
+    "final": {
+      "overall_score": 75,
+      "summary": "The candidate has a solid foundation in web development and relevant technical skills, but lacks specific experience or projects directly related to the job description.",
+      "final_verdict": "Consider for entry-level positions with further training.",
+      "top_3_actions": [
+        "Gain more practical experience with real-world projects.",
+        "Enhance knowledge in specific technologies mentioned in the job description.",
+        "Network with professionals in the field to gain insights and opportunities."
+      ]
+    },
+    "ats": {
+      "score": 70,
+      "keywords_matched": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "Web Development"
+      ],
+      "keywords_missing": [
+        "specific frameworks or libraries",
+        "team collaboration experience",
+        "project management skills"
+      ]
+    },
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C",
+      "Java",
+      "Bootstrap",
+      "MySQL",
+      "Git",
+      "Figma"
+    ],
+    "strengths": [
+      "Strong foundation in web development",
+      "Experience with open-source contributions",
+      "Good academic performance"
+    ],
+    "critic": [
+      "Lacks detailed project descriptions and outcomes.",
+      "Limited experience in team-based projects.",
+      "Needs to highlight specific technologies relevant to the job."
+    ],
+    "extracted": {
+      "education": "Bachelor of Engineering, Information Science – 9.4 CGPA",
+      "certifications": [
+        "Web Development and Frontend Development",
+        "AI tools and ChatGPT",
+        "Full stack workshop"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "interests": [
+        "Open-Source Software",
+        "Full development stack development",
+        "Chess"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:39:32.307647+00:00",
+    "student": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "college": "",
+      "branch": "",
+      "year": ""
+    },
+    "final": {
+      "overall_score": 75,
+      "summary": "The candidate has a solid foundation in web development and relevant technical skills, but lacks specific experience or projects that align closely with the job description.",
+      "final_verdict": "Meets basic qualifications but needs more targeted experience.",
+      "top_3_actions": [
+        "Gain more practical experience in projects directly related to the job description.",
+        "Enhance knowledge in specific technologies mentioned in the job description.",
+        "Network with professionals in the field to gain insights and opportunities."
+      ]
+    },
+    "ats": {
+      "score": 70,
+      "keywords_matched": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Git",
+        "Web Development"
+      ],
+      "keywords_missing": [
+        "specific frameworks or libraries mentioned in the job description",
+        "industry-specific tools"
+      ]
+    },
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C",
+      "Java",
+      "Bootstrap",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "Figma"
+    ],
+    "strengths": [
+      "Strong foundation in web development",
+      "Experience with open-source projects",
+      "Good academic performance"
+    ],
+    "critic": "The resume lacks specific examples of projects or experiences that directly relate to the job description. More detail on practical applications of skills would strengthen the application.",
+    "extracted": {
+      "education": "Bachelor of Engineering, Information Science – 9.4 CGPA",
+      "certifications": [
+        "Web Development and Frontend Development",
+        "AI tools and ChatGPT",
+        "Full stack workshop"
+      ],
+      "languages": [
+        "English",
+        "Kannada",
+        "Hindi"
+      ],
+      "interests": [
+        "Open-Source Software",
+        "Full development stack development",
+        "Chess"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:37:17.344876+00:00",
+    "student": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "college": "",
+      "branch": "",
+      "year": ""
+    },
+    "final": {
+      "overall_score": 75,
+      "summary": "The candidate has a solid foundation in web development and programming languages, with relevant projects and certifications. However, there is a lack of specific experience or skills mentioned that align directly with the job description.",
+      "final_verdict": "Qualified but needs more targeted experience.",
+      "top_3_actions": [
+        "Gain more practical experience in relevant technologies mentioned in the job description.",
+        "Highlight specific projects that align with the job requirements.",
+        "Consider additional certifications or courses that are directly related to the job."
+      ]
+    },
+    "ats": 70,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C",
+      "Java",
+      "Git",
+      "MySQL",
+      "Figma"
+    ],
+    "strengths": [
+      "Strong foundation in web development",
+      "Experience with open-source projects",
+      "Good academic performance"
+    ],
+    "critic": [
+      "Lacks specific experience related to the job description.",
+      "Projects could be more aligned with the job requirements.",
+      "Needs to emphasize teamwork or collaboration in projects."
+    ],
+    "extracted": {
+      "education": "Bachelor of Engineering, Information Science – 9.4 CGPA",
+      "certifications": [
+        "Web Development and Frontend Development courses",
+        "AI tools and ChatGPT certification",
+        "Full stack workshop certification"
+      ],
+      "projects": [
+        "Multiple frontend projects",
+        "MCP Mega Workshop"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:32:57.595556+00:00",
+    "student": {
+      "name": "",
+      "email": "",
+      "phone": "",
+      "college": "",
+      "branch": "",
+      "year": ""
+    },
+    "final": {
+      "overall_score": 75,
+      "summary": "The resume demonstrates a solid foundation in web development and relevant technical skills, but lacks specific alignment with the job description requirements.",
+      "final_verdict": "Consider for further evaluation.",
+      "top_3_actions": [
+        "Highlight specific projects that align with the job description.",
+        "Include any relevant internships or work experience.",
+        "Tailor the skills section to match the job description more closely."
+      ]
+    },
+    "ats": 70,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C",
+      "Java",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "Figma"
+    ],
+    "strengths": [
+      "Strong foundation in web development",
+      "Experience with open-source projects",
+      "Good academic performance"
+    ],
+    "critic": [
+      "Lacks specific examples of teamwork or collaboration.",
+      "No mention of relevant internships or work experience.",
+      "Could improve clarity and organization of the resume."
+    ],
+    "extracted": {
+      "education": "Bachelor of Engineering, Information Science – 9.4 CGPA",
+      "certifications": [
+        "Web Development and Frontend Development courses",
+        "AI tools and ChatGPT workshop",
+        "Full stack workshop"
+      ],
+      "projects": [
+        "Portfolio websites",
+        "UI designs",
+        "MCP Mega Workshop"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:32:14.542667+00:00",
+    "student": {
+      "name": "ammu",
+      "email": "ftdtfv@gmail.com",
+      "phone": "9380146603",
+      "college": "malnad",
+      "branch": "is",
+      "year": "3"
+    },
+    "final": {
+      "overall_score": 65,
+      "summary": "The resume showcases a strong foundation in web development and relevant technical skills, but lacks direct experience or qualifications related to a managerial role.",
+      "final_verdict": "Not suitable for the managerial position.",
+      "top_3_actions": [
+        "Gain experience in leadership or management roles.",
+        "Highlight any relevant project management or team collaboration experiences.",
+        "Pursue additional certifications in management or leadership."
+      ]
+    },
+    "ats": 70,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C",
+      "Java",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "Figma"
+    ],
+    "strengths": [
+      "Strong foundation in web development",
+      "Experience with open-source projects",
+      "Good academic performance"
+    ],
+    "critic": [
+      "Lacks managerial experience",
+      "No direct experience related to job description",
+      "Needs to emphasize leadership skills"
+    ],
+    "extracted": {
+      "education": "Bachelor of Engineering, Information Science – 9.4 CGPA",
+      "projects": [
+        "Portfolio websites",
+        "UI designs",
+        "Basic web applications"
+      ],
+      "certifications": [
+        "Web Development and Frontend Development courses",
+        "AI tools and ChatGPT",
+        "Full stack workshop"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:24:41.718801+00:00",
+    "student": {
+      "name": "amrutha",
+      "email": "varsharangaswamy2006@gmail.com",
+      "phone": "9380146603",
+      "college": "MALNAD COLLEGE OF ENGINEERING",
+      "branch": "is",
+      "year": "3rd"
+    },
+    "final": {
+      "overall_score": 75,
+      "summary": "The candidate has a solid foundation in web development with relevant projects and certifications. However, more experience in full-stack development and specific frameworks would enhance their profile.",
+      "final_verdict": "Potential candidate for further consideration.",
+      "top_3_actions": [
+        "Gain more experience with backend technologies and frameworks.",
+        "Work on full-stack projects to demonstrate end-to-end development skills.",
+        "Enhance knowledge of databases and server-side programming."
+      ]
+    },
+    "ats": 70,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C",
+      "Java",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "Figma"
+    ],
+    "strengths": [
+      "Strong foundation in web development",
+      "Experience with responsive design",
+      "Active participation in open-source projects"
+    ],
+    "critic": [
+      "Lacks significant backend experience",
+      "Limited exposure to full-stack development",
+      "Needs to showcase more complex projects"
+    ],
+    "extracted": {
+      "education": "Bachelor of Engineering, Information Science – 9.4 CGPA",
+      "certifications": [
+        "Web Development and Frontend Development courses",
+        "AI tools and ChatGPT workshop",
+        "Full stack workshop"
+      ],
+      "projects": [
+        "Portfolio websites",
+        "UI designs",
+        "MCP Mega Workshop"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:22:52.610730+00:00",
+    "student": {
+      "name": "amrutha",
+      "email": "varsharangaswamy2006@gmail.com",
+      "phone": "9380146603",
+      "college": "MALNAD COLLEGE OF ENGINEERING",
+      "branch": "is",
+      "year": "3rd"
+    },
+    "final": {
+      "overall_score": 70,
+      "summary": "The candidate has a solid foundation in web development and programming languages but lacks direct experience in full-stack development with Python.",
+      "final_verdict": "Potential candidate with room for improvement in Python and full-stack experience.",
+      "top_3_actions": [
+        "Gain more experience with Python frameworks like Django or Flask.",
+        "Work on full-stack projects to demonstrate end-to-end development skills.",
+        "Enhance understanding of backend technologies and databases."
+      ]
+    },
+    "ats": 75,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C",
+      "Java",
+      "Git",
+      "MySQL"
+    ],
+    "strengths": [
+      "Strong foundation in web development",
+      "Experience with open-source projects",
+      "Good academic performance"
+    ],
+    "critic": [
+      "Lacks specific full-stack development experience",
+      "Limited exposure to backend frameworks",
+      "Needs to showcase more Python-related projects"
+    ],
+    "extracted": {
+      "education": "Bachelor of Engineering, Information Science",
+      "cgpa": "9.4",
+      "certifications": [
+        "Web Development and Frontend Development",
+        "AI tools and ChatGPT",
+        "Full stack workshop"
+      ],
+      "projects": [
+        "Portfolio websites",
+        "UI designs",
+        "MCP Mega Workshop"
+      ]
+    }
+  },
+  {
+    "timestamp": "2026-08-21T08:04:50.988416+00:00",
+    "student": {
+      "name": "amrutha",
+      "email": "varsharangaswamy2006@gmail.com",
+      "phone": "9380146603",
+      "college": "MALNAD COLLEGE OF ENGINEERING",
+      "branch": "is",
+      "year": "3rd"
+    },
+    "final": {
+      "overall_score": 70,
+      "summary": "The resume showcases a strong foundation in web development and relevant technical skills, but lacks specific alignment with a job description.",
+      "final_verdict": "Moderate fit for general web development roles.",
+      "top_3_actions": [
+        "Tailor the resume to specific job descriptions.",
+        "Highlight relevant projects more prominently.",
+        "Include more details on teamwork and collaboration in projects."
+      ]
+    },
+    "ats": 60,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C",
+      "Java",
+      "Git",
+      "MySQL",
+      "Figma"
+    ],
+    "strengths": [
+      "Strong academic performance",
+      "Active involvement in open-source projects",
+      "Good foundational knowledge in web development"
+    ],
+    "critic": [
+      "No specific job description to compare against.",
+      "Lacks detailed descriptions of projects and roles.",
+      "Email address does not match the name on the resume."
+    ],
+    "extracted": {}
+  },
+  {
+    "timestamp": "2026-08-21T08:03:43.941489+00:00",
+    "student": {
+      "name": "amrutha",
+      "email": "hitheshnaik55@gmail.com",
+      "phone": "9380146603",
+      "college": "malnad college of engineering",
+      "branch": "is",
+      "year": "3"
+    },
+    "final": {
+      "overall_score": 55,
+      "summary": "The resume showcases strong technical skills and relevant projects but lacks direct experience or qualifications related to a managerial position.",
+      "final_verdict": "Not a fit for the managerial role.",
+      "top_3_actions": [
+        "Gain leadership experience through team projects or internships.",
+        "Develop soft skills relevant to management such as communication and conflict resolution.",
+        "Seek mentorship or training in management principles."
+      ]
+    },
+    "ats": 70,
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Python",
+      "C",
+      "Java",
+      "MySQL",
+      "Git",
+      "GitHub",
+      "Figma"
+    ],
+    "strengths": [
+      "Strong foundation in web development",
+      "Experience with open-source projects",
+      "Good academic performance"
+    ],
+    "critic": [
+      "Lacks managerial experience",
+      "No demonstrated leadership roles",
+      "Limited information on soft skills"
+    ],
+    "extracted": {
+      "education": "Bachelor of Engineering, Information Science – 9.4 CGPA",
+      "certifications": [
+        "Web Development and Frontend Development courses",
+        "AI tools and ChatGPT workshop",
+        "Full stack workshop"
+      ],
+      "projects": [
+        "Portfolio websites",
+        "UI designs",
+        "MCP Mega Workshop"
+      ]
+    }
+  },
+  {
+    "email": "jane@example.com",
+    "name": "Jane Doe",
+    "overall_score": 0,
+    "ats_score": 0,
+    "timestamp": "2026-08-21 20:20:59"
+  }
+]
